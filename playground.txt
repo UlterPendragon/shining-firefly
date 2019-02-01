@@ -1,6 +1,5 @@
-﻿formation git 
+formation git 
 We are the best of the world
-ajout d'une ligne
 new age
 blabla
 itchi
@@ -9,3 +8,4 @@ pokemon
 les denrees alimentaires ne sont pas fun
 
 je m'appelle jean charles de la martinière des champs de rhone
+lolo est un coquin malin
