@@ -1,8 +1,8 @@
 formation git 
 We are the best of the world
-<<<<<<< HEAD
+
 as we know it ! 
-=======
+
 
 
 je m'appelle jean charles de la martinière des champs de rhone
@@ -16,3 +16,4 @@ so we call him SuperUnderWear now  SUW
 
 JCDLMDCDR est l'ennemi de SUW 
 >>>>>>> aa61394... adding the ennemi of SUW
+pokemon !!! tadadada
