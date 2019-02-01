@@ -1,4 +1,4 @@
-formation git 
+﻿formation git 
 We are the best of the world
 
 as we know it ! 
@@ -17,3 +17,5 @@ so we call him SuperUnderWear now  SUW
 JCDLMDCDR est l'ennemi de SUW 
 >>>>>>> aa61394... adding the ennemi of SUW
 pokemon !!! tadadada
+
+Super cool mega nice
