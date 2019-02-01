@@ -14,4 +14,9 @@ PIKATCHUUUUUUUUUUUUUUUUUU
 je m'appelle jean charles de la martinière des champs de rhone
 lolo est un coquin malin
 
+<<<<<<< Updated upstream
 elephant bleu
+=======
+
+l'elephant bleu
+>>>>>>> Stashed changes
