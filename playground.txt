@@ -1,4 +1,4 @@
-formation git 
+﻿formation git 
 We are the best of the world
 ajout d'une ligne
 new age
@@ -6,5 +6,6 @@ blabla
 itchi
 banana split
 pokemon
-les denr�es alimentaires ne sont pas fun
+les denrees alimentaires ne sont pas fun
 
+je m'appelle jean charles de la martinière des champs de rhone
